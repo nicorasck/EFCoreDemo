@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "19eAZn0jQGE=",
+  "dgSpecHash": "90F7nv3/gPk=",
   "success": true,
-  "projectFilePath": "c:\\Users\\nicho\\development\\projects\\DAB\\MyRepos\\Entity Framework\\EFCoreDemo\\EFCoreDemo.csproj",
+  "projectFilePath": "C:\\Users\\nicho\\development\\projects\\DAB\\MyRepos\\Entity Framework\\EFCoreDemo\\EFCoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicho\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\nicho\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

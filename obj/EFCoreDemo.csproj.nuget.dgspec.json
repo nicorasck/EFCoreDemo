@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\nicho\\development\\projects\\DAB\\MyRepos\\Entity Framework\\EFCoreDemo\\EFCoreDemo.csproj": {}
+    "C:\\Users\\nicho\\development\\projects\\DAB\\MyRepos\\Entity Framework\\EFCoreDemo\\EFCoreDemo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\nicho\\development\\projects\\DAB\\MyRepos\\Entity Framework\\EFCoreDemo\\EFCoreDemo.csproj": {
+    "C:\\Users\\nicho\\development\\projects\\DAB\\MyRepos\\Entity Framework\\EFCoreDemo\\EFCoreDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\nicho\\development\\projects\\DAB\\MyRepos\\Entity Framework\\EFCoreDemo\\EFCoreDemo.csproj",
+        "projectUniqueName": "C:\\Users\\nicho\\development\\projects\\DAB\\MyRepos\\Entity Framework\\EFCoreDemo\\EFCoreDemo.csproj",
         "projectName": "EFCoreDemo",
-        "projectPath": "c:\\Users\\nicho\\development\\projects\\DAB\\MyRepos\\Entity Framework\\EFCoreDemo\\EFCoreDemo.csproj",
+        "projectPath": "C:\\Users\\nicho\\development\\projects\\DAB\\MyRepos\\Entity Framework\\EFCoreDemo\\EFCoreDemo.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\nicho\\development\\projects\\DAB\\MyRepos\\Entity Framework\\EFCoreDemo\\obj\\",
+        "outputPath": "C:\\Users\\nicho\\development\\projects\\DAB\\MyRepos\\Entity Framework\\EFCoreDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
